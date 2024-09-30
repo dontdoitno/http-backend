@@ -127,7 +127,7 @@ app.use(async (request, response) => {
   }
 });
 
-const port = process.env.PORT || 7070;
+const port = process.env.PORT || 6060;
 
 const bootstrap = async () => {
   try {
